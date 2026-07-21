@@ -3101,6 +3101,9 @@
   "auto.components.settings.auto.rename.branch.search.a482f6a423": {
     "ko": "슬러그"
   },
+  "auto.components.settings.browser.search.00f82a4c3d": {
+    "ko": "터미널, 마크다운, 편집기에서 http(s) 링크를 Orca 내장 브라우저로 엽니다. {{shortcut}}은(는) 항상 시스템 브라우저를 사용합니다."
+  },
   "auto.components.settings.browser.search.0732ebe6fb": {
     "ko": "비공개"
   },
